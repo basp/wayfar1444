@@ -1,4 +1,3 @@
-wayfar1444
+wayfar1444 Wiki Project
 ==========
-
-Wayfar1444 docs, random stuff and wiki
+Wiki is [here](Wayfar1444 wiki](https://github.com/basp/wayfar1444).
